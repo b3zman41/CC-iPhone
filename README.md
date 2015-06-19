@@ -1,6 +1,6 @@
 # CC-iPhone
 
-ComputerCraft is a mod written by Dan200 for Minecraf the game
+ComputerCraft is a mod written by Dan200 for Minecraft the game
 
 This app allows you to use your iPhone to control the ComputerCraft turtle in game.
 
